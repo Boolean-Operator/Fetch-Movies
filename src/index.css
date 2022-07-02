@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #666666;
+  background-image: url(./img/night-sky.jpg);
+  background-size: cover;
+}
